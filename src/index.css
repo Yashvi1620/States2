@@ -1,0 +1,12 @@
+* {
+  margin: 1px;
+}
+
+.input {
+  overflow-y: scroll;
+}
+
+.output {
+  background-color: #d5eaf9;
+  width: 50%;
+}
